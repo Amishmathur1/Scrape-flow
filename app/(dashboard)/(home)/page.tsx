@@ -6,4 +6,4 @@ function HomePage() {
   )
 }
 
-export default page
+export default HomePage;
